@@ -8,7 +8,7 @@
       },
       {
         "name": "PBIDesktopVersion",
-        "value": "2.119.986.0 (23.07)"
+        "value": "2.119.666.0 (23.07)"
       },
       {
         "name": "PBI_QueryOrder",
@@ -51,7 +51,7 @@
           "ClientMachine": "DESKTOP-NV69I5J",
           "DeploymentMode": "SaveUI",
           "TabularEditorBuild": "3.9.0.2972",
-          "Time": "2023-07-26T01:35:00.5333614+02:00",
+          "Time": "2023-07-26T00:35:00.5333614+01:00",
           "User": "DESKTOP-NV69I5J\\Klonk-Temp"
         }
       }
